@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Gildeon Rangel! 👨‍💻</h1>
+<h1 align="center">Olá Mundo!, eu sou o Gyldeon! 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+formação!;Apaixonado+por+Tecnologia+e+Inovação;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Futuro+Dev+Fullstack!" alt="Typing SVG" />
