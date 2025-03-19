@@ -1,4 +1,4 @@
-<h2 align="left">"Hello World!" My name is Gyldeon and I'm a designer student of ​​systems analysis and development, from brazil.</h2>
+<h2 align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F764&center=true&width=435&lines=%22Hello+World!%22+My+name+is+Gyldeon)](https://git.io/typing-svg)</h2>
 
 ###
 
