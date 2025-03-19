@@ -1,37 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9269F7&width=435&lines=%22Hello+World!%22+My+name+is+Gyldeon)](https://git.io/typing-svg)
-###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/6e/cc/4a/6ecc4ae4930d172a5a1785ad5bab2700.gif"  />
+<h1 align="center">Olá, eu sou o Gildeon Rangel! 👨‍💻</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+formação!;Apaixonado+por+Tecnologia+e+Inovação;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Futuro+Dev+Fullstack!" alt="Typing SVG" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+---
+
+## ✨ Sobre mim
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio
+- 💻 Estudando **C, HTML, CSS** e me preparando para aprender **Java**
+- 🖥️ Conhecimento em **Design Gráfico** e **Photoshop**
+- ⚙️ Curso técnico em **Montagem e Manutenção de Computadores**
+- 🌱 Sempre em busca de aprender mais sobre tecnologia!
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+![C](https://img.shields.io/badge/C-8A2BE2?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-32CD32?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-32CD32?style=for-the-badge&logo=java&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-8A2BE2?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-32CD32?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gyldeon&show_icons=true&theme=tokyonight&title_color=8A2BE2&text_color=32CD32&icon_color=8A2BE2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyldeon&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=32CD32" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/gyldeonmurasaky/profilecard/?igsh=ZXY5aW1yb2FhcnZ3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/UKXDMBCm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:gyldeonsoares@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gyldeon" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🌐 Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyldeon)
 
-###
+---
+
+⭐ **Obrigado por visitar meu perfil!** ⭐
