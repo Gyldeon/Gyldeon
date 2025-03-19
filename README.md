@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F764&center=true&width=435&lines=%22Hello+World!%22+My+name+is+Gyldeon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9269F7&width=435&lines=%22Hello+World!%22+My+name+is+Gyldeon)](https://git.io/typing-svg)
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/6e/cc/4a/6ecc4ae4930d172a5a1785ad5bab2700.gif"  />
